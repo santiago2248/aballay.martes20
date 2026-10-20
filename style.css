@@ -1,0 +1,16 @@
+body {
+font-family: Arial, sans-serif;
+background-color: #ceb47d;
+color: #000000;
+margin: 0;
+}
+header {
+background-color: #e8ff62;
+color: rgb(216, 65, 183);
+text-align: center;
+padding: 40px;
+}
+h1 {
+font-size: 50px;
+margin-bottom: 20px;
+}
